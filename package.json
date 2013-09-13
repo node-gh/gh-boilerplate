@@ -20,6 +20,7 @@
         "gh", "nodegh", "boilerplate", "plugin"
     ],
     "bin": {
+        "gh-bo": "bin/boilerplate.js",
         "gh-boilerplate": "bin/boilerplate.js"
     },
     "engines": {
