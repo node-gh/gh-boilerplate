@@ -1,6 +1,6 @@
-# Plugin Name [![NPM version](https://badge.fury.io/js/gh-boilerplate.png)](http://badge.fury.io/js/gh-boilerplate)
+# GH Boilerplate [![NPM version](https://badge.fury.io/js/gh-boilerplate.png)](http://badge.fury.io/js/gh-boilerplate)
 
-TODO: Write a plugin description
+A NodeGH plugin for demonstrating how to create NodeGH plugins :)
 
 > Maintained by [Your Name](https://github.com/yourname).
 
