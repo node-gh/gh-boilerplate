@@ -1,14 +1,13 @@
 {
     "name": "gh-boilerplate",
-    "description": "NodeGH plugin boilerplate.",
+    "description": "NodeGH plugin for demonstrating how to create NodeGH plugins",
     "version": "0.1.0",
-    "homepage": "http://nodegh.io",
     "author": {
         "name": "Author",
         "email": "email@email.com",
         "web": "http://www.nodegh.io"
     },
-    "license": "BSD",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "git@github.com:node-gh/gh-boilerplate.git"

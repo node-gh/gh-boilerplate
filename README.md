@@ -2,7 +2,7 @@
 
 ![Puppeteer Octocat](http://zno.io/RMHw/puppeteer.png)
 
-A NodeGH plugin for demonstrating how to create NodeGH plugins :)
+NodeGH plugin for demonstrating how to create NodeGH plugins :)
 
 > Maintained by [Your Name](https://github.com/yourname).
 
