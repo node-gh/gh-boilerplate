@@ -1,16 +1,40 @@
-# Project Name
+# Plugin Name [![NPM version](https://badge.fury.io/js/gh-boilerplate.png)](http://badge.fury.io/js/gh-boilerplate)
 
-TODO: Write a project description
+TODO: Write a plugin description
 
 > Maintained by [Your Name](https://github.com/yourname).
 
-## Installation
+## Install
 
-TODO: Describe the installation process
+```
+[sudo] npm install -g gh-boilerplate
+```
 
 ## Usage
 
-TODO: Write usage instructions
+```
+gh boilerplate
+```
+
+> **Alias:** `gh bo`
+
+Option             | Usage        | Type
+---                | ---          | ---
+`-f`, `--foo`      | **Required** | `String`
+
+#### Examples
+
+* **Shortcut** for showing hello world message.
+
+	```
+gh bo
+	```
+
+* Show hello world message.
+
+	```
+gh bo --foo
+	```
 
 ## Contributing
 
@@ -22,8 +46,9 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+* v0.0.1 September 12, 2013
+	* Start plugin using [gh-boilerplate](https://github.com/node-gh/gh-boilerplate)
 
 ## License
 
-TODO: Write license
+[MIT License](http://opensource.org/licenses/MIT)
