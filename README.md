@@ -2,6 +2,8 @@
 
 TODO: Write a project description
 
+> Maintained by [Your Name](https://github.com/yourname).
+
 ## Installation
 
 TODO: Describe the installation process
@@ -21,10 +23,6 @@ TODO: Write usage instructions
 ## History
 
 TODO: Write history
-
-## Credits
-
-TODO: Write credits
 
 ## License
 
