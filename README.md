@@ -38,6 +38,20 @@ gh bo
 gh bo --foo
 	```
 
+## Test
+
+* Run [JSHint](http://www.jshint.com/), a tool to detect errors and potential problems.
+
+    ```
+npm run-script lint
+    ```
+
+* Run [Mocha](http://visionmedia.github.io/mocha/), a unit test framework.
+
+    ```
+npm run-script test
+    ```
+
 ## Contributing
 
 1. Fork it!
