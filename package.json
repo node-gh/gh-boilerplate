@@ -22,8 +22,9 @@
         "gh-bo": "bin/boilerplate.js",
         "gh-boilerplate": "bin/boilerplate.js"
     },
-    "engines": {
-        "node": ">=0.8"
+    "scripts": {
+        "lint": "node_modules/.bin/jshint bin/ test/",
+        "test": "node_modules/.bin/mocha --reporter list"
     },
     "devDependencies": {
         "jshint": "2.1.2",
@@ -31,6 +32,9 @@
     },
     "peerDependencies": {
         "gh": ">=1.4.0"
+    },
+    "engines": {
+        "node": ">=0.8"
     },
     "preferGlobal": "true"
 }
