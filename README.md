@@ -1,4 +1,4 @@
-# GH Boilerplate [![NPM version](https://badge.fury.io/js/gh-boilerplate.png)](http://badge.fury.io/js/gh-boilerplate) [![Dependency Status](https://david-dm.org/node-gh/gh-boilerplate.png)](https://david-dm.org/node-gh/gh-boilerplate)
+# GH Boilerplate [![Build Status](https://secure.travis-ci.org/node-gh/gh-boilerplate.png?branch=master)](https://travis-ci.org/node-gh/gh-boilerplate) [![NPM version](https://badge.fury.io/js/gh-boilerplate.png)](http://badge.fury.io/js/gh-boilerplate) [![Dependency Status](https://david-dm.org/node-gh/gh-boilerplate.png)](https://david-dm.org/node-gh/gh-boilerplate)
 
 ![Puppeteer Octocat](http://zno.io/RMHw/puppeteer.png)
 
