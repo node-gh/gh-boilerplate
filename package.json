@@ -1,7 +1,7 @@
 {
     "name": "gh-boilerplate",
     "description": "NodeGH plugin for demonstrating how to create NodeGH plugins",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": {
         "name": "Author",
         "email": "email@email.com",
