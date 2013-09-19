@@ -38,7 +38,9 @@ gh bo
 gh bo --foo
 	```
 
-## Test
+## Testing
+
+Check [Travis](https://travis-ci.org/node-gh/gh-boilerplate) for continous integration results.
 
 * Run [JSHint](http://www.jshint.com/), a tool to detect errors and potential problems.
 
