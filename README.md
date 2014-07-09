@@ -1,6 +1,6 @@
 # GH Boilerplate [![Build Status](https://secure.travis-ci.org/node-gh/gh-boilerplate.svg?branch=master)](https://travis-ci.org/node-gh/gh-boilerplate) [![NPM version](https://badge.fury.io/js/gh-boilerplate.svg)](http://badge.fury.io/js/gh-boilerplate) [![Dependency Status](https://david-dm.org/node-gh/gh-boilerplate.svg?theme=badge.io)](https://david-dm.org/node-gh/gh-boilerplate)
 
-![Puppeteer Octocat](http://zno.io/RMHw/puppeteer.png)
+![Puppeteer Octocat](https://cloud.githubusercontent.com/assets/398893/3528207/f16146ce-078c-11e4-96b0-4f7ab6adae1c.png)
 
 NodeGH plugin for demonstrating how to create NodeGH plugins :)
 
