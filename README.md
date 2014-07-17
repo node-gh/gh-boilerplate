@@ -1,4 +1,10 @@
-# GH Boilerplate [![Build Status](https://secure.travis-ci.org/node-gh/gh-boilerplate.svg?branch=master)](https://travis-ci.org/node-gh/gh-boilerplate) [![NPM version](https://badge.fury.io/js/gh-boilerplate.svg)](http://badge.fury.io/js/gh-boilerplate) [![Dependency Status](https://david-dm.org/node-gh/gh-boilerplate.svg?theme=badge.io)](https://david-dm.org/node-gh/gh-boilerplate)
+# GH Boilerplate
+
+[![NPM version](http://img.shields.io/npm/v/gh-boilerplate.svg?style=flat)](http://npmjs.org/gh-boilerplate)
+[![NPM downloads](http://img.shields.io/npm/dm/gh-boilerplate.svg?style=flat)](http://npmjs.org/gh-boilerplate)
+[![Build Status](http://img.shields.io/travis/node-gh/gh-boilerplate/master.svg?style=flat)](https://travis-ci.org/node-gh/gh-boilerplate)
+[![Dependencies Status](http://img.shields.io/david/node-gh/gh-boilerplate.svg?style=flat)](https://david-dm.org/node-gh/gh-boilerplate)
+[![DevDependencies Status](http://img.shields.io/david/dev/node-gh/gh-boilerplate.svg?style=flat)](https://david-dm.org/node-gh/gh-boilerplate#info=devDependencies)
 
 ![Puppeteer Octocat](https://cloud.githubusercontent.com/assets/398893/3528207/f16146ce-078c-11e4-96b0-4f7ab6adae1c.png)
 
