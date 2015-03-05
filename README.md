@@ -15,7 +15,7 @@ NodeGH plugin for demonstrating how to create NodeGH plugins :)
 ## Install
 
 ```
-[sudo] npm install -g gh-boilerplate
+[sudo] npm install -g gh gh-boilerplate
 ```
 
 ## Usage
