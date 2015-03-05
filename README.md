@@ -1,6 +1,12 @@
-# GH Boilerplate [![NPM version](https://badge.fury.io/js/gh-boilerplate.png)](http://badge.fury.io/js/gh-boilerplate) [![Dependency Status](https://david-dm.org/node-gh/gh-boilerplate.png)](https://david-dm.org/node-gh/gh-boilerplate)
+# GH Boilerplate
 
-![Puppeteer Octocat](http://zno.io/RMHw/puppeteer.png)
+[![NPM version](http://img.shields.io/npm/v/gh-boilerplate.svg?style=flat)](http://npmjs.org/gh-boilerplate)
+[![NPM downloads](http://img.shields.io/npm/dm/gh-boilerplate.svg?style=flat)](http://npmjs.org/gh-boilerplate)
+[![Build Status](http://img.shields.io/travis/node-gh/gh-boilerplate/master.svg?style=flat)](https://travis-ci.org/node-gh/gh-boilerplate)
+[![Dependencies Status](http://img.shields.io/david/node-gh/gh-boilerplate.svg?style=flat)](https://david-dm.org/node-gh/gh-boilerplate)
+[![DevDependencies Status](http://img.shields.io/david/dev/node-gh/gh-boilerplate.svg?style=flat)](https://david-dm.org/node-gh/gh-boilerplate#info=devDependencies)
+
+![Puppeteer Octocat](https://cloud.githubusercontent.com/assets/398893/3528207/f16146ce-078c-11e4-96b0-4f7ab6adae1c.png)
 
 NodeGH plugin for demonstrating how to create NodeGH plugins :)
 
@@ -38,7 +44,9 @@ gh bo
 gh bo --foo
 	```
 
-## Test
+## Testing
+
+Check [Travis](https://travis-ci.org/node-gh/gh-boilerplate) for continous integration results.
 
 * Run [JSHint](http://www.jshint.com/), a tool to detect errors and potential problems.
 
@@ -67,4 +75,4 @@ npm run-script test
 
 ## License
 
-[MIT License](http://opensource.org/licenses/MIT)
+[BSD License](https://github.com/node-gh/gh/blob/master/LICENSE.md)

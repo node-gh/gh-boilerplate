@@ -1,13 +1,28 @@
 {
     "name": "gh-boilerplate",
     "description": "NodeGH plugin for demonstrating how to create NodeGH plugins",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": {
         "name": "Author",
         "email": "email@email.com",
-        "web": "http://www.nodegh.io"
+        "web": "http://www.nodegh.io",
+        "twitter": "author"
     },
-    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Eduardo Lundgren",
+            "email": "eduardolundgren@gmail.com",
+            "web": "http://www.eduardo.io",
+            "twitter": "eduardolundgren"
+        },
+        {
+            "name": "Zeno Rocha",
+            "email": "zno.rocha@gmail.com",
+            "web": "http://zenorocha.com",
+            "twitter": "zenorocha"
+        }
+    ],
+    "license": "BSD",
     "repository": {
         "type": "git",
         "url": "git@github.com:node-gh/gh-boilerplate.git"
