@@ -6,8 +6,6 @@
 [![Dependencies Status](http://img.shields.io/david/node-gh/gh-boilerplate.svg?style=flat)](https://david-dm.org/node-gh/gh-boilerplate)
 [![DevDependencies Status](http://img.shields.io/david/dev/node-gh/gh-boilerplate.svg?style=flat)](https://david-dm.org/node-gh/gh-boilerplate#info=devDependencies)
 
-![Puppeteer Octocat](https://cloud.githubusercontent.com/assets/398893/3528207/f16146ce-078c-11e4-96b0-4f7ab6adae1c.png)
-
 NodeGH plugin for demonstrating how to create NodeGH plugins :)
 
 > Maintained by [Your Name](https://github.com/yourname).
