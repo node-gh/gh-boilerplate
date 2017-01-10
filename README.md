@@ -52,7 +52,7 @@ Check [Travis](https://travis-ci.org/node-gh/gh-boilerplate) for continous integ
 npm run-script lint
     ```
 
-* Run [Mocha](http://visionmedia.github.io/mocha/), a unit test framework.
+* Run [Mocha](http://mochajs.org/), a unit test framework.
 
     ```
 npm run-script test
